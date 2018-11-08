@@ -1,0 +1,19 @@
+- The page must match exactly the PSD for +968px width (pixel perfect)
+
+- Should be full responsive
+	- Title, Subtitle and footer links should be aligned on -968px
+	- Gallery images should be one column on -968px
+
+- Notice the hover state of gallery images
+	- The title in the bottom should slide up on hover
+	- The description should slide down on hover
+
+- Make sure you use HTML5 as much as posible.
+
+- Extra:
+	- Add your own animations.
+
+- No Javascript
+- No more than 1 media query
+- Mobile first (Yes, the design is for desktop)
+- Review on wednesday 7 in the dev meeting (morning)
